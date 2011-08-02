@@ -2,6 +2,5 @@
 LD_PRELOAD=$HOME/.tconn/tconn.so
 export LD_PRELOAD
 #git push -u origin master
-#echo "$1"
-git push github "$1"
+git push github master
 
